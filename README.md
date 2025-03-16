@@ -29,6 +29,8 @@ Since p = 0.2161 is greater than 0.05, we fail to reject the null hypothesis.
 This means there is no statistically significant difference between the conversion rates of the control and treatment groups.
 The new layout did not lead to a meaningful improvement in conversions based on this test.
 
+Cohen’s h = 0.005, suggesting a small effect size, meaning that while the difference is significant, the impact may not be substantial in practical terms.
+
 ## Tools Used
 - Python: Pandas, SciPy, Statsmodels, Seaborn, Matplotlib
 - SQL for querying conversion rates
