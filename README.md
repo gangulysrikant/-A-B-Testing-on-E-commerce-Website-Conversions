@@ -24,6 +24,11 @@ The dataset contains user interactions with the website, including which group (
 - The p-value for the hypothesis test was 0.21612, indicating that the new layout does not significantly improves conversions.
 - Cohen's h was -0.005, suggesting a small effect size.
 
+# Interpretation:
+Since p = 0.2161 is greater than 0.05, we fail to reject the null hypothesis.
+This means there is no statistically significant difference between the conversion rates of the control and treatment groups.
+The new layout did not lead to a meaningful improvement in conversions based on this test.
+
 ## Tools Used
 - Python: Pandas, SciPy, Statsmodels, Seaborn, Matplotlib
 - SQL for querying conversion rates
