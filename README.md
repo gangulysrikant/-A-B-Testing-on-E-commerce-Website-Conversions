@@ -71,10 +71,10 @@ P-Value: 0.2161
 Cohen’s h: 0.007 (very small effect size)
 
 ## Key Takeaways:
-✅ The p-value (0.2161) is greater than 0.05, meaning we fail to reject the null hypothesis.
-✅ This indicates no statistically significant difference between the control and treatment groups.
-✅ The new webpage layout did not significantly impact conversions.
-✅ Future improvements could include segmenting users, running a longer experiment, or A/B testing with additional features.
+ The p-value (0.2161) is greater than 0.05, meaning we fail to reject the null hypothesis.
+ This indicates no statistically significant difference between the control and treatment groups.
+ The new webpage layout did not significantly impact conversions.
+ Future improvements could include segmenting users, running a longer experiment, or A/B testing with additional features.
 
 ## Technologies & Tools Used
 Python: Pandas, NumPy, SciPy, Statsmodels
